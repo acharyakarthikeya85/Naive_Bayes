@@ -4,5 +4,7 @@ Same algo used to predict whether a candidate will attend the interview or not.
 
 ## Resources 
 https://upxacademy.learnyst.com/ (Project materials)
+
+
 https://upxacademy.com/
 
